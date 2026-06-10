@@ -1,0 +1,10 @@
+SWE3040|Digital Electronics|Malak Oteri|80
+APT3050|Software Quality Assuarance|Patrick Wamuyu|70
+SFE4015|Software Configuration|Maurine Oluoch|40
+SWE2020|Introduction to Machine Learning|Dalton Ndirangu|50
+APT3080|Management Information Systems|Leah Mutanu|25
+MTH3015|Numerical Analysis|Edward Ombui|35
+MTH4010|Probability and Statistics|Petronilla Wanmuyu|60
+MTH2030|Discrete Mathematics|Austin Sifuna|15
+FIL2013|Fundamentals of Information Literacy|Austin Kianda|65
+SWE1020|Data Structures and Algorithm Analysis|Jane Wangari|55
